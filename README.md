@@ -4,3 +4,5 @@ Kolejny tekst
 
 
 nastepny tekst
+
+kolejna zmiana
